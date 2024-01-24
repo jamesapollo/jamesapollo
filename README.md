@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesapollo
-- 👀 I’m interested in Elixir, React, Flutter
-- 🌱 I’m currently learning Elixir
+- 👀 I’m interested in React, Flutter, NestJS
+- 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on the next billion dollar idea
 - 📫 How to reach me apollohjames@gmail.com
 
